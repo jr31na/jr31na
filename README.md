@@ -1,6 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**It is a pleasure to virtually meet you.** 
-I'm Javier and I'm a software developer working in Bogota, Colombia. 
+**It is a pleasure to virtually meet you.** I'm Javier and I'm a software developer. 
 
 
 #### &#x270d; Blog & Writing
@@ -24,30 +23,10 @@ Apart from coding, I also maintain a blog → you can find my articles on my web
 - 🌍  I'm mostly active within the **Entrepreneur Community**
 - 🌱  Learning all about **Python**
 - 💬  Ping me about **design**, **branding**, **Entrepreneur**, **development**, **innovation**
-- 📫  Reach me: [![Twitter][1.2]][1], [![Instagram][2.2]][2] or on [![LinkedIn][3.2]][3].
+- 📫  Reach me: [Twitter] https://twitter.com/jr31na, [[Instagram] https://www.instagram.com/jr31na/ or on [LinkedIn]https://www.linkedin.com/in/jr31na/.
 - ⚡️  Fun fact: I'm a huge fan of Japanese culture
 
 
-
-
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-<!-- icons without padding -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/jr31na
-[2]: https://www.instagram.com/jr31na/
-[3]: https://www.linkedin.com/in/jr31na/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
