@@ -1,9 +1,10 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **It is a pleasure to virtually meet you.** 
+
 I'm Javier and I'm a software developer working in Bogota, Colombia. 
 
 
-#### &#x270d; Blog & Writing
+##### &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog → you can find my articles on my website at [javierreina.com](https://javierreina.com/)
 
@@ -17,7 +18,7 @@ Apart from coding, I also maintain a blog → you can find my articles on my web
 - 🎙 Podcast 
 - 💬 Currently -->
 
-##### BIO
+##### 🙎🏻‍♂️ BIO
 
 - 🏢 I'm currently working at **___**
 - ⚙️ I use daily: `Notion`, `.py`, `.html`, `.css`
