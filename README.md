@@ -4,7 +4,7 @@
 
 #### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog → you can find my articles on my website at [javierreina.com](https://javierreina.com/)
+Apart from coding, I also maintain a blog, you can find my articles on my website at [javierreina.com](https://javierreina.com/)
 
 
 
@@ -18,12 +18,12 @@ Apart from coding, I also maintain a blog → you can find my articles on my web
 
 #### 🙎🏻‍♂️ BIO
 
-- 🏢  I'm currently working at **___**
+<!-- - 🏢  I'm currently working at **___**-->
 - ⚙️  I use daily: `Notion`, `.py`, `.html`, `.css`
 - 🌍  I'm mostly active within the **Entrepreneur Community**
 - 🌱  Learning all about **Python**
 - 💬  Ping me about **design**, **branding**, **Entrepreneur**, **development**, **innovation**
-- 📫  Reach me: [Twitter](https://twitter.com/jr31na), [Instagram](https://www.instagram.com/jr31na/) or [Linkedin](https://www.linkedin.com/in/jr31na/)
+- 📫  Reach me: On [Twitter](https://twitter.com/jr31na), [Instagram](https://www.instagram.com/jr31na/) or [Linkedin](https://www.linkedin.com/in/jr31na/)
 - ⚡️  Fun fact: I'm a huge fan of Japanese culture
 
 
