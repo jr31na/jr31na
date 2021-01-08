@@ -4,7 +4,7 @@
 I'm Javier and I'm a software developer working in Bogota, Colombia. 
 
 
-##### &#x270d; Blog & Writing
+#### &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog → you can find my articles on my website at [javierreina.com](https://javierreina.com/)
 
@@ -18,15 +18,15 @@ Apart from coding, I also maintain a blog → you can find my articles on my web
 - 🎙 Podcast 
 - 💬 Currently -->
 
-##### 🙎🏻‍♂️ BIO
+#### 🙎🏻‍♂️ BIO
 
-- 🏢 I'm currently working at **___**
-- ⚙️ I use daily: `Notion`, `.py`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Entrepreneur Community**
-- 🌱 Learning all about **Python**
-- 💬 Ping me about **design**, **branding**, **Entrepreneur**, **development**, **design thinking**
-- 📫 Reach me: [![Twitter][1.2]][1], [![Instagram][2.2]][2] or on [![LinkedIn][3.2]][3].
-- ⚡️ Fun fact: I'm a huge fan of Japanese culture
+- 🏢  I'm currently working at **___**
+- ⚙️  I use daily: `Notion`, `.py`, `.html`, `.css`
+- 🌍  I'm mostly active within the **Entrepreneur Community**
+- 🌱  Learning all about **Python**
+- 💬  Ping me about **design**, **branding**, **Entrepreneur**, **development**, **innovation**
+- 📫  Reach me: [![Twitter][1.2]][1], [![Instagram][2.2]][2] or on [![LinkedIn][3.2]][3].
+- ⚡️  Fun fact: I'm a huge fan of Japanese culture
 
 
 
