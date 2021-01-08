@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there <img src="https://raw.githubusercontent.com/jr31na/jr31na/master/wave.gif" width="30px">
 I'm Javier and I'm a software developer working in Bogota, Colombia. 
 
 
