@@ -13,7 +13,7 @@
 #### 🙎🏻‍♂️ BIO
 
 <!-- - 🏢  I'm currently working at **___**-->
-- ⚙️  I use daily: `Notion`, `.aws`, `.py`, `.html`, `.css`
+- ⚙️  I use daily: `Notion`, `aws`, `.py`, `.html`, `.css`
 - 🌍  I'm mostly active within the **Entrepreneur Community**
 - 🌱  Learning all about **Python**
 - 💬  Ping me about **design**, **branding**, **Entrepreneur**, **development**, **innovation**
