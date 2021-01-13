@@ -12,13 +12,13 @@
 
 #### 🙎🏻‍♂️ BIO
 
-<!-- - 🏢  I'm currently working at **___**-->
 - ⚙️  I use daily: `Notion`, `aws`, `.py`, `.html`, `.css`
-<!-- -- 🌍  I'm mostly active within the **Entrepreneur Community**-->
 - 🌱  Learning all about **Python** **ML**
-- 💬  Ping me about **design**, **branding**, **Entrepreneur**, **development**, **innovation**
+- 💬  Ping me about **Branding**, **Entrepreneur**, **Technology**, **Innovation**
 - 📫  Reach me: On [Twitter](https://twitter.com/jr31na), [Instagram](https://www.instagram.com/jr31na/) or [Linkedin](https://www.linkedin.com/in/jr31na/)
 - ⚡️  Fun fact: I'm a huge fan of Japanese culture
+<!-- - 🏢  I'm currently working at **___**-->
+<!-- -- 🌍  I'm mostly active within the **Entrepreneur Community**-->
 
 
 
