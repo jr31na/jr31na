@@ -2,12 +2,6 @@
 **It is a pleasure to virtually meet you.** I'm Javier and I'm a software developer. 
 
 
-#### &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog, you can find my articles on my website at [javierreina.com](https://javierreina.com/)
-
-
-
 <!-- ##### NOW
 
 - 🔭 I’m currently working on 
