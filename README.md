@@ -1,14 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**It is a pleasure to virtually meet you.** I'm Javier and I'm a software developer. 
-
-
-<!-- ##### NOW
-
-- 🔭 I’m currently working on 
-- 🌐 Crafting the
-- 💅 Youtube
-- 🎙 Podcast 
-- 💬 Currently -->
+**It is a pleasure to virtually meet you.** I'm Javier!
 
 #### 🙎🏻‍♂️ BIO
 
